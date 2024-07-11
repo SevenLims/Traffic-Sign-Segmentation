@@ -1,0 +1,27 @@
+﻿  Final ver.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\User\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Folder\Files\Y2T2\MP\All MP Report 2 files\Source code\Report 1\Project1\Project1\Final ver.cpp(57,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Folder\Files\Y2T2\MP\All MP Report 2 files\Source code\Report 1\Project1\Project1\Final ver.cpp(214,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Folder\Files\Y2T2\MP\All MP Report 2 files\Source code\Report 1\Project1\Project1\Final ver.cpp(223,21): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\User\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Folder\Files\Y2T2\MP\All MP Report 2 files\Source code\Report 1\Project1\Project1\Final ver.cpp(224,21): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\User\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Folder\Files\Y2T2\MP\All MP Report 2 files\Source code\Report 1\Project1\Project1\Final ver.cpp(249,20): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\User\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Folder\Files\Y2T2\MP\All MP Report 2 files\Source code\Report 1\Project1\Project1\Final ver.cpp(250,20): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  supp.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\User\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Folder\Files\Y2T2\MP\All MP Report 2 files\Source code\Report 1\Project1\x64\Debug\Project1.exe
